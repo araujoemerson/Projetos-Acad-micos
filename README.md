@@ -1,53 +1,46 @@
-<h1 align="center">Hi 👋, I'm Émerson</h1>
-<h3 align="center">Electrical Engineering Student | Software Engineer</h3>
+# Hi 👋, I'm Émerson
 
-<p align="center">
-Passionate about Energy, Software Engineering, Data Engineering, Automation, and Emerging Technologies.
-</p>
+### Mechanical Engineering Student | Software Engineer
+
+Passionate about Mechanical Engineering, Energy Systems, Manufacturing, Robotics, Automation, Data Engineering, and Emerging Technologies.
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚡ Electric Vehicle Battery Charging Solutions
+### 🤖 Voice-Controlled Robotic Arm
 
-Supporting the transition toward sustainable mobility through the study and development of electric vehicle charging solutions. This project explores battery charging strategies, power conversion, energy management, electrical protection mechanisms, and charging infrastructure concepts.
+Project focused on the development of a robotic arm controlled through voice commands. The initiative explores mechanical systems, articulated mechanisms, actuators, motion control, and the integration between hardware and software for intelligent automation applications.
 
-#### Technologies
-
-![Power Electronics](https://img.shields.io/badge/Power_Electronics-FF6B00?style=for-the-badge)
-![Energy Storage](https://img.shields.io/badge/Energy_Storage-2E7D32?style=for-the-badge)
-![Electrical Systems](https://img.shields.io/badge/Electrical_Systems-1565C0?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-6A1B9A?style=for-the-badge)
+**Technologies:**  
+Robotics • Mechanical Systems • Motion Control • Automation • Embedded Systems
 
 ---
 
-### ☀️ Dual Axis Solar Power Tracker System
+### 🌡️ Battery Thermal Management System
 
-Academic project focused on developing a dual-axis solar tracking system capable of automatically adjusting photovoltaic panels according to solar incidence throughout the day, maximizing energy generation efficiency.
+Project dedicated to improving the thermal performance, efficiency, and operational reliability of energy storage systems. The study involves heat transfer, thermodynamics, cooling strategies, and thermal monitoring applied to battery systems and electric mobility.
 
-#### Technologies
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-212121?style=for-the-badge)
-![Sensors](https://img.shields.io/badge/Sensors-00897B?style=for-the-badge)
-![Control Systems](https://img.shields.io/badge/Control_Systems-1976D2?style=for-the-badge)
-![Solar Energy](https://img.shields.io/badge/Solar_Energy-F9A825?style=for-the-badge)
+**Technologies:**  
+Thermodynamics • Heat Transfer • Energy Storage • Thermal Systems • Data Analysis
 
 ---
 
-### 🌐 Electrical Engineering Portal
+### 🏭 CNC Machine Condition Monitoring System
 
-Digital platform dedicated to Electrical Engineering, renewable energy, automation, intelligent systems, and emerging technologies. The project combines technical content production with backend architecture, APIs, cloud infrastructure, and data solutions.
+Development of a monitoring solution designed to assess the operational condition of CNC machines through vibration, temperature, and performance analysis. The project explores predictive maintenance, reliability engineering, industrial monitoring, and Industry 4.0 concepts.
 
-#### Technologies
+**Technologies:**  
+Predictive Maintenance • Industrial Sensors • Data Acquisition • Reliability Engineering • Artificial Intelligence
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-0052CC?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF4081?style=for-the-badge)
+---
+
+### 🌐 Mechanical Engineering Portal
+
+Digital platform focused on Mechanical Engineering, manufacturing, robotics, industrial automation, mobility, energy systems, and emerging technologies. The project combines technical content creation with backend development, APIs, cloud infrastructure, and data solutions.
+
+**Technologies:**  
+Python • SQL • Docker • APIs • Cloud Computing • Artificial Intelligence
 
 ---
 
@@ -55,46 +48,65 @@ Digital platform dedicated to Electrical Engineering, renewable energy, automati
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,java,mysql" />
+</p>
 
 ### Backend & Infrastructure
 
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-1E88E5?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,redis,kafka" />
+</p>
 
 ### Cloud & Data
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge)
-![Compute Engine](https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-5C6BC0?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp" />
+</p>
 
-### Energy & Electrical
+**Technologies:**  
+BigQuery • Cloud Functions • Compute Engine • ETL • Data Engineering
 
-![Electrical Projects](https://img.shields.io/badge/Electrical_Projects-1565C0?style=for-the-badge)
-![Low Voltage](https://img.shields.io/badge/Low_Voltage-1976D2?style=for-the-badge)
-![Medium Voltage](https://img.shields.io/badge/Medium_Voltage-0D47A1?style=for-the-badge)
-![Renewable Energy](https://img.shields.io/badge/Renewable_Energy-2E7D32?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-6A1B9A?style=for-the-badge)
+### Mechanical Engineering
+
+- Mechanical Design
+- Manufacturing Processes
+- Thermodynamics
+- Heat Transfer
+- Robotics
+- Industrial Automation
+- Predictive Maintenance
+- Energy Systems
+- Reliability Engineering
 
 ---
 
 ## 📊 GitHub Stats
 
-![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌎 Languages
 
-- 🇧🇷 Portuguese (Native)
-- 🇺🇸 English (Professional Working Proficiency)
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Professional Working Proficiency
+- 🇪🇸 Spanish — Professional Working Proficiency
+- 🇫🇷 French — Professional Working Proficiency
+- 🇩🇪 German — Professional Working Proficiency
+- 🇮🇹 Italian — Professional Working Proficiency
+
+---
+
+### 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
+
+
