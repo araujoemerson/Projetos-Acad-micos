@@ -104,7 +104,7 @@ BigQuery • Cloud Functions • Compute Engine • ETL • Data Engineering
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/emerson-engmecanica/?skipRedirect=true">LinkedIn</a> •
   <a href="mailto:YOUR_EMAIL">Email</a> •
   <a href="https://github.com/YOUR_USERNAME">GitHub</a>
 </p>
